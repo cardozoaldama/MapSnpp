@@ -1,0 +1,2 @@
+# MapSnpp
+Android Studio project
